@@ -1,0 +1,135 @@
+body{
+
+	background-color:  #e6e5eb;;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	text-align: centre;
+}
+
+
+#cloud1{
+	text-align: center;
+padding-left: 30%;
+}
+
+#cloud2{
+	text-align: center;
+padding-right: 30%;
+}
+.topcontainer{
+	text-align: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+	
+}
+.middlecontainer{
+	text-align: center;
+
+	font-family: Arial, Helvetica, sans-serif;
+}
+#mountain{
+	text-align: center;
+	
+	
+}
+#mountainimg{
+	height: 500px;
+	width: 900px;
+	 border-radius:100px ;
+}
+.middlecontainer h3{
+	color: #66BFBF ;
+	font-weight: normal;
+}
+
+.topcontainer h2{
+	font-weight: normal;
+}
+.topcontainer h2{
+	font-size: 40px;
+}
+
+#myimage img{
+
+	height: 250px;
+	width: 250px;
+	border-radius: 360px;
+}
+
+#myimage{
+height: 350px;
+width: 300px;
+
+}
+#introduction
+{
+height: 350px;
+width: 600px;
+
+
+}
+#introduction h1{
+   font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif; 
+  color: #66BFBF ;
+}
+#introduction h3{
+	font-weight: normal;
+   font-family: Arial, Helvetica, sans-serif; 
+
+ }
+ 
+#introcontainer{
+	display: flex;
+  justify-content: space-evenly;
+  
+  align-items: center;
+ 
+  height: 400px;
+  margin-bottom: 10px;
+
+	
+}
+#intro h1{
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif; 
+	color: #66BFBF ;
+}
+#intro h3{
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif; 
+ 
+}
+
+#computergif
+{
+	height: 350px;
+	width: 300px;
+}
+#intro
+{
+	height: 350px;
+	width: 600px;
+
+}
+#computergif img{
+	height: 250px;
+	width: 250px;
+	border-radius: 360px;
+}
+#skillscontainer{
+	display: flex;
+	justify-content: space-evenly;
+	
+	align-items: center;
+   
+	height: 400px;
+
+}
+
+footer h2{
+	text-align: center;
+    font-weight: normal; 
+	font-family: Arial, Helvetica, sans-serif;   
+}
